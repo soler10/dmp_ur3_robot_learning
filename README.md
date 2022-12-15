@@ -28,4 +28,4 @@
 
 >>roslaunch my_ur3_reach ur3_original.launch
 
-![alt text](im.jpg)
+![alt text](https://github.com/soler10/dmp_ur3_robot_learning/blob/master/im.jpeg?raw=true)
