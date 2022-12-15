@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/movement_primitives/share/roseus/ros/movement_primitives/msg/TPHSMMQueryTrigger.l

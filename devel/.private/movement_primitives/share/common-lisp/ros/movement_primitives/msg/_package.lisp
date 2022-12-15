@@ -1,0 +1,15 @@
+(cl:defpackage movement_primitives-msg
+  (:use )
+  (:export
+   "<PROMPQUERYTRIGGER>"
+   "PROMPQUERYTRIGGER"
+   "<PROMPTRAINMSG>"
+   "PROMPTRAINMSG"
+   "<ROBOTTRAJ>"
+   "ROBOTTRAJ"
+   "<TPHSMMQUERYTRIGGER>"
+   "TPHSMMQUERYTRIGGER"
+   "<TPHSMMTRAINMSG>"
+   "TPHSMMTRAINMSG"
+  ))
+

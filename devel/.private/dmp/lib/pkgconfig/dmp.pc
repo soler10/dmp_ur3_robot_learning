@@ -1,0 +1,8 @@
+prefix=/home/abril/catkin_ws/devel/.private/dmp
+
+Name: dmp
+Description: Description of dmp
+Version: 0.0.0
+Cflags: -I/home/abril/catkin_ws/devel/.private/dmp/include -I/home/abril/catkin_ws/src/dmp/include
+Libs: -L${prefix}/lib 
+Requires: common_msgs image_common message_runtime

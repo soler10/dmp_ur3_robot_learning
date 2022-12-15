@@ -1,0 +1,8 @@
+/home/abril/catkin_ws/devel/include//kinenik/kinenik_ur.h
+/home/abril/catkin_ws/devel/include//kinenik/kinenik.h
+/home/abril/catkin_ws/devel/lib/libkinenik.so
+/home/abril/catkin_ws/devel/share/kinenik/kinenikConfig.cmake
+/home/abril/catkin_ws/devel/share/kinenik/kinenikConfigVersion.cmake
+/home/abril/catkin_ws/devel/share/kinenik/package.xml
+/home/abril/catkin_ws/devel/share/kinenik/kinenikTargets.cmake
+/home/abril/catkin_ws/devel/share/kinenik/kinenikTargets-noconfig.cmake

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_kinenik_ur.dir/src/test_kinenik_ur.cpp.o  -o test_kinenik_ur  -Wl,-rpath,/home/abril/catkin_ws/build/kinenik libkinenik.so 

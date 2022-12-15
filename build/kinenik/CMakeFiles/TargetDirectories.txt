@@ -1,0 +1,8 @@
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/install/strip.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/install/local.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/install.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/list_install_components.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/rebuild_cache.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/edit_cache.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/test_kinenik_ur.dir
+/home/abril/catkin_ws/build/kinenik/CMakeFiles/kinenik.dir

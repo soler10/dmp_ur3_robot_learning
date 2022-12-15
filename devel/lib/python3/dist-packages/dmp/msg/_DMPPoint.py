@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/dmp/lib/python3/dist-packages/dmp/msg/_DMPPoint.py

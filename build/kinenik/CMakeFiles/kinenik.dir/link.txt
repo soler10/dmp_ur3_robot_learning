@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libkinenik.so -o libkinenik.so CMakeFiles/kinenik.dir/src/kinenik_ur.cpp.o 

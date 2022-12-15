@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/dmp/share/roseus/ros/dmp/msg/DMPPoint.l

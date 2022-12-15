@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/openai_ros/share/roseus/ros/openai_ros/manifest.l

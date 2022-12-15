@@ -1,0 +1,14 @@
+[  0%] Built target _dmp_generate_messages_check_deps_SetActiveDMP
+[  0%] Built target _dmp_generate_messages_check_deps_DMPTraj
+[  0%] Built target _dmp_generate_messages_check_deps_DMPData
+[  0%] Built target _dmp_generate_messages_check_deps_DMPPoint
+[  0%] Built target _dmp_generate_messages_check_deps_GetDMPPlan
+[ 12%] Built target dmp
+[ 12%] Built target _dmp_generate_messages_check_deps_LearnDMPFromDemo
+[ 17%] Built target dmp_server
+[ 32%] Built target dmp_generate_messages_lisp
+[ 47%] Built target dmp_generate_messages_cpp
+[ 67%] Built target dmp_generate_messages_py
+[ 85%] Built target dmp_generate_messages_eus
+[100%] Built target dmp_generate_messages_nodejs
+[100%] Built target dmp_generate_messages

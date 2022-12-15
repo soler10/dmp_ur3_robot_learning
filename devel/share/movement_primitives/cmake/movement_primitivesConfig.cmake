@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/movement_primitives/share/movement_primitives/cmake/movement_primitivesConfig.cmake

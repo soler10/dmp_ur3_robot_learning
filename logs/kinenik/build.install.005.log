@@ -1,0 +1,13 @@
+[ 50%] Built target kinenik
+[100%] Built target test_kinenik_ur
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/abril/catkin_ws/devel/include//kinenik
+-- Up-to-date: /home/abril/catkin_ws/devel/include//kinenik/kinenik_ur.h
+-- Up-to-date: /home/abril/catkin_ws/devel/include//kinenik/kinenik.h
+-- Up-to-date: /home/abril/catkin_ws/devel/lib/libkinenik.so
+-- Up-to-date: /home/abril/catkin_ws/devel/share/kinenik/kinenikConfig.cmake
+-- Up-to-date: /home/abril/catkin_ws/devel/share/kinenik/kinenikConfigVersion.cmake
+-- Up-to-date: /home/abril/catkin_ws/devel/share/kinenik/package.xml
+-- Up-to-date: /home/abril/catkin_ws/devel/share/kinenik/kinenikTargets.cmake
+-- Up-to-date: /home/abril/catkin_ws/devel/share/kinenik/kinenikTargets-noconfig.cmake

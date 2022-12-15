@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _movement_primitives_generate_messages_check_deps_PrompTrain
+[  0%] Built target _movement_primitives_generate_messages_check_deps_TPHSMMTrainMsg
+[  0%] Built target _movement_primitives_generate_messages_check_deps_TPHSMMQueryTrigger
+[  0%] Built target _movement_primitives_generate_messages_check_deps_PrompQueryTrigger
+[  0%] Built target _movement_primitives_generate_messages_check_deps_PrompTrainMsg
+[  0%] Built target _movement_primitives_generate_messages_check_deps_RobotTraj
+[ 18%] Built target movement_primitives_generate_messages_lisp
+[ 42%] Built target movement_primitives_generate_messages_py
+[ 75%] Built target movement_primitives_generate_messages_nodejs
+[ 78%] Built target movement_primitives_generate_messages_cpp
+[100%] Built target movement_primitives_generate_messages_eus
+[100%] Built target movement_primitives_generate_messages

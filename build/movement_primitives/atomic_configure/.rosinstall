@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abril/catkin_ws/devel/.private/movement_primitives/setup.sh

@@ -1,0 +1,2 @@
+set(movement_primitives_MESSAGE_FILES "/home/abril/catkin_ws/src/movement-primitives/msg/PrompTrainMsg.msg;/home/abril/catkin_ws/src/movement-primitives/msg/PrompQueryTrigger.msg;/home/abril/catkin_ws/src/movement-primitives/msg/RobotTraj.msg;/home/abril/catkin_ws/src/movement-primitives/msg/TPHSMMTrainMsg.msg;/home/abril/catkin_ws/src/movement-primitives/msg/TPHSMMQueryTrigger.msg")
+set(movement_primitives_SERVICE_FILES "/home/abril/catkin_ws/src/movement-primitives/srv/PrompTrain.srv")

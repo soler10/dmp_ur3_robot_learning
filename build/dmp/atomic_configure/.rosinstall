@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abril/catkin_ws/devel/.private/dmp/setup.sh

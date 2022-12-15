@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/openai_ros/lib/python3/dist-packages/openai_ros/msg/__init__.py

@@ -1,0 +1,8 @@
+prefix=/home/abril/catkin_ws/devel/.private/my_ur3_training
+
+Name: my_ur3_training
+Description: Description of my_ur3_training
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

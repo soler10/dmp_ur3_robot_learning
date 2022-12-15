@@ -1,0 +1,1 @@
+/home/abril/catkin_ws/devel/.private/my_ur3_training/lib/pkgconfig/my_ur3_training.pc

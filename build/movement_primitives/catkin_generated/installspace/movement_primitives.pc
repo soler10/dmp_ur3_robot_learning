@@ -1,0 +1,8 @@
+prefix=/home/abril/catkin_ws/install
+
+Name: movement_primitives
+Description: Description of movement_primitives
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

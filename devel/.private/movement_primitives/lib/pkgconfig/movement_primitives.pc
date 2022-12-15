@@ -1,0 +1,8 @@
+prefix=/home/abril/catkin_ws/devel/.private/movement_primitives
+
+Name: movement_primitives
+Description: Description of movement_primitives
+Version: 0.0.0
+Cflags: -I/home/abril/catkin_ws/devel/.private/movement_primitives/include
+Libs: -L${prefix}/lib 
+Requires: 
